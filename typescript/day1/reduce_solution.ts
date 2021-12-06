@@ -1,5 +1,4 @@
-import data from './data';
-
+import data from '../measurements/data';
 const INITIAL_VALUE: number = 0;
 
 const reducerFunction = (accumulatedValue: number, currentValue: number, currentIndex: number, array: Array<number>) => {

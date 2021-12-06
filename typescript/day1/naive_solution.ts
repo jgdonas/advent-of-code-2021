@@ -1,4 +1,4 @@
-import data from './data';
+import data from '../measurements/data';
 
 let previousIndex = 0;
 let currentIndex = 1;
